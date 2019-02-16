@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Gamedoper
+description: a dope and Guide
 destination: jekyllbuild
 url: #place url
 baseurl: #place folder name if site is served in subfolder
@@ -14,13 +14,13 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
-author_default_avatar: /profile-pic.jpg
+author_default_avatar: /profile-photo.jpg
 tumblr: "#"
-pinterest: "#"
+pinterest: "gamedoper"
 instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
+twitter: "gamedoper"
+facebook: "gamedoper"
+youtube: "ijayaprakash"
 vimeo: "#"
 soundcloud: "#"
 
